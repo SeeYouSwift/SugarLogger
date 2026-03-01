@@ -1,0 +1,9 @@
+.build/
+*.o
+*.d
+*.dia
+*.swp
+xcuserdata/
+*.xcscmblueprint
+DerivedData/
+.DS_Store
